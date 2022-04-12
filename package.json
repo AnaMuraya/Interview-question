@@ -1,0 +1,17 @@
+{
+  "name": "clik-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest /test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "sequelize": "^6.19.0",
+    "sequelize-cli": "^6.4.1"
+  }
+}
